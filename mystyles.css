@@ -1,0 +1,88 @@
+.maintext{
+	font-size: 16px ; 
+	color: red;
+
+}
+.heading{
+	font-size: 24px;
+}
+.widgetborder1{
+    border: 1px solid black;
+	width: 850px ;
+	height: 150px;
+	text-align: center;	
+    font-size: 24px	;
+	background-color: orange;
+}    
+.div {
+background-color: eeeeee;
+
+}
+#wrapper{
+font-family: arial;
+width : 952px; 
+height: 150px; 
+border: 1px solid black;
+}
+
+#div1{
+float: left; 
+width: 317.333px; 
+height: 150px; 
+background-color:  #eeeeee;
+}
+
+#div2{
+float: left;
+ width: 317.333px; 
+ height: 150px;
+ background-color:  #ff7216;
+ 
+}
+
+#div3{
+float: left;
+width: 317.333px;
+ height: 150px; 
+ background-color:  #999999
+}
+
+#On-Call{
+background-color: #FF9900;
+color: #ffffff;
+font-size: 10px;
+margin: 1px 0px 2px 0px;
+padding: 2px;
+text-align: center;
+}
+
+a.magic:hover, li.magic:hover, p.magic:hover
+{ 
+background-color: #cdcdcd;
+}
+
+#div4{
+float: left;
+margin-bottom: 2px ;
+background-color: #FF9900;
+color: #ffffff;
+font-size: 10px;
+: 1px 0px 2px 0px;
+padding: 2px;
+text-align: center;
+ border-radius: 5px
+ }
+ 
+ #span{
+ font-size: 12px;
+ }
+ 
+ #span2{
+ float : right ;
+ font-size: 12px;
+ }
+ 
+ #div5{
+ border-bottom: 1px dashed;
+ margin-bottom: 15px;
+ }
